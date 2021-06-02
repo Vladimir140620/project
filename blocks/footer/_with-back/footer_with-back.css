@@ -1,0 +1,6 @@
+.footer_with-back {   
+    background-color: #969037;
+    height: 39px;
+    display: flex; 
+    justify-content: space-between;    
+}

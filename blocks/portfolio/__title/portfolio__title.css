@@ -1,0 +1,13 @@
+.portfolio__title {
+    min-width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    width: 345px;
+    height: 40px;
+    background-color: #969037;   
+    font-size: 25px; 
+    color: white;
+    letter-spacing: 3.2px;
+    margin-bottom: 50px;
+}

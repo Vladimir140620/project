@@ -1,0 +1,19 @@
+
+@import url(./__links/footer__links.css);
+@import url(./__mail/footer__mail.css);
+@import url(./__vk/footer__vk.css);
+@import url(./__insta/footer__insta.css);
+@import url(./__twiter/footer__twiter.css);
+@import url(./__back/footer__back.css);
+@import url(./_with-back/footer_with-back.css);
+@import url(./__links/_back/footer__links_back.css);
+
+
+
+.footer {
+    background-color: #969037;
+    height: 39px;
+    display: flex; 
+    justify-content: center;
+    
+}

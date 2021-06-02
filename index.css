@@ -1,17 +1,17 @@
 /* @import url(../normalize.css); */
-@import url(./../blocks/header/header.css);
-@import url(./../blocks/header/__list/header__list.css);
-@import url(./../blocks/intro/intro.css);
-@import url(./../blocks/about-me/about-me.css);
-@import url(./../blocks/link-portfolio/link-portfolio.css);
-@import url(./../blocks/footer/footer.css);
-@import url(./../blocks/header/header_color.css);
-@import url(./../blocks/header/__link/_color/header__link_color.css);
-@import url(./../blocks/portfolio/portfolio.css);
-@import url(./../blocks/title/title.css);
-@import url(./../blocks/portfolio/__title/_miriam/portfolio__title_miriam.css);
-@import url(./../blocks/portfolio/__title/_long/portfolio__title_long.css);
-@import url(./../blocks/portfolio/__item/_contacts/portfolio__item_contacts.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__list/header__list.css);
+@import url(./blocks/intro/intro.css);
+@import url(./blocks/about-me/about-me.css);
+@import url(./blocks/link-portfolio/link-portfolio.css);
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/header/header_color.css);
+@import url(./blocks/header/__link/_color/header__link_color.css);
+@import url(./blocks/portfolio/portfolio.css);
+@import url(./blocks/title/title.css);
+@import url(./blocks/portfolio/__title/_miriam/portfolio__title_miriam.css);
+@import url(./blocks/portfolio/__title/_long/portfolio__title_long.css);
+@import url(./blocks/portfolio/__item/_contacts/portfolio__item_contacts.css);
 
 
 @font-face {
